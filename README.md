@@ -7,3 +7,5 @@ Dlatego wartości wyświetlane przez komputer są mniejsze niż wartości podawa
 Pojemność dysku	
 Wartość podawana przez producenta (system dziesiętny)
 Wartość wyświetlana przez komputer (system dwójkowy)
+
+![TabelaDyskiTwardeWN](https://github.com/wiktornosarzewski/HDD-SDD-Table/assets/22853678/22de6a1c-a5f7-4f77-8399-1534af3d3fbe)
